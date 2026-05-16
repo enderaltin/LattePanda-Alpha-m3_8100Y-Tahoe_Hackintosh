@@ -1,2 +1,2 @@
-# LattePanda-Alpha-m3_8100Y-Tahoe_Hackintosh
+# LattePanda-Alpha-i5_8210Y-Tahoe_Hackintosh
 Tahoe EFI
